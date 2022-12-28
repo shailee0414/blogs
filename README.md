@@ -1,3 +1,5 @@
 To read this repository follow these steps:
-npm install
-npm run start
+
+1) npm install
+
+2) npm run start
